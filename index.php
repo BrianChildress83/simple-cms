@@ -1,6 +1,9 @@
 <?php
 
 include_once('inc/connection.php');
+include_once('inc/article.php');
+
+$article = new Article;
 
 ?>
 
